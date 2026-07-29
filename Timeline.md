@@ -8,3 +8,8 @@
 
 *July 25* - Finish the player analysis for Attack position; ranking the top players based on given position-specific statistics; 
 exploring top scorers' breakdown of goals by value
+
+*July 26* - Goalie positional analysis; creating top ranked players by sorting mechanism. 
+
+*July 28* - Finish goalie positional analysis; still need to add thorough analysis of boxplot; showed better overall save percentage does not necessarily mean higher clean saves percent. 
+
