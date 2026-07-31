@@ -13,3 +13,6 @@ exploring top scorers' breakdown of goals by value
 
 *July 28* - Finish goalie positional analysis; still need to add thorough analysis of boxplot; showed better overall save percentage does not necessarily mean higher clean saves percent. 
 
+*July 30* - Complete Midi analysis; at end of session realized that comparing top midis by turnovers/caused turnovers was not clear, so decided to change statistics for  next session.
+
+*July 31* - Complete Midi top player analysis with new statistics - 2pt vs 1pt shots on goal; 
