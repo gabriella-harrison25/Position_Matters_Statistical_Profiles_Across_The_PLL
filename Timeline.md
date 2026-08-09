@@ -22,3 +22,5 @@ exploring top scorers' breakdown of goals by value
 *August 6* - Perform final analysis for Attack, Midi; compare findings to industry awards.
 
 *August 7* - Perform final analysis for LSM, SSDM; compare findings to industry awards; begin final analyses of faceoff.
+
+*August 8* - Made progress on final faceoff player analysis.
