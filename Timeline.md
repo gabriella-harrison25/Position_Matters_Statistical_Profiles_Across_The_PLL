@@ -16,3 +16,9 @@ exploring top scorers' breakdown of goals by value
 *July 30* - Complete Midi analysis; at end of session realized that comparing top midis by turnovers/caused turnovers was not clear, so decided to change statistics for  next session.
 
 *July 31* - Complete Midi top player analysis with new statistics - 2pt vs 1pt shots on goal; finish LSM, SSDM, FO positional analysis; found error with algorithm to find top players in previous analyses so corrected it;
+
+*August 4*  - Finish initial analyses for all positions. Begin formatting final analyses, ensuring charts and tables are clear and well-presented.
+
+*August 6* - Perform final analysis for Attack, Midi; compare findings to industry awards.
+
+*August 7* - Perform final analysis for LSM, SSDM; compare findings to industry awards; begin final analyses of faceoff.
