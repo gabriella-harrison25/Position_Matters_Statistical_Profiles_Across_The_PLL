@@ -24,3 +24,7 @@ exploring top scorers' breakdown of goals by value
 *August 7* - Perform final analysis for LSM, SSDM; compare findings to industry awards; begin final analyses of faceoff.
 
 *August 8* - Made progress on final faceoff player analysis.
+
+*August 9* - Finished goalie positional analysis.
+
+*August 10* - Completed Part 1 of the project; finalized positional analysis file and uploaded it to Github; brainstormed approach for Part 2.
