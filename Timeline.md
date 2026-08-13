@@ -28,3 +28,7 @@ exploring top scorers' breakdown of goals by value
 *August 9* - Finished goalie positional analysis.
 
 *August 10* - Completed Part 1 of the project; finalized positional analysis file and uploaded it to Github; brainstormed approach for Part 2.
+
+*August 12* - Started datasearch and cleaning for Part 2.
+
+*August 13* - Completed data cleaning and preparation for analysis for Part 2.
