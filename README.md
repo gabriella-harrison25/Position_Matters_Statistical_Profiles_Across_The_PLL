@@ -15,7 +15,7 @@ This exploratory data analysis (EDA) seeks to analyze individual players' and te
 
 ## The Files
 *PLL_EDA_Data_Pre-Processing (1).ipynb* - Data cleaning and pre-processing for Positional Analysis. <br>
-*PLL_Positional_Analysis.ipynb* - Positional Analysis process and results.
-*PLL_EDA_Team_DataCleaning.ipynb* - Data cleaning and pre-processing for Team Analysis.
+*PLL_Positional_Analysis.ipynb* - Positional Analysis process and results. <br>
+*PLL_EDA_Team_DataCleaning.ipynb* - Data cleaning and pre-processing for Team Analysis.<br><br>
 
 *Timeline.md* - A file detailing the status of the project after each work session.
