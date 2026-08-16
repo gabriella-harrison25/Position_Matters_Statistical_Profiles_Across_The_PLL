@@ -32,3 +32,9 @@ exploring top scorers' breakdown of goals by value
 *August 12* - Started datasearch and cleaning for Part 2.
 
 *August 13* - Completed data cleaning and preparation for analysis for Part 2.
+
+*August 14* - Began the analysis in Part 2 by running simple regression model for betweeen features and features/wins.
+
+*August 15* - Continued analysis in Part 2 by developing Random Forest Regression model to validate earlier results. 
+
+*August 16* - Finalized analysis and created results dashboard for project.
