@@ -13,13 +13,15 @@ Hence, this project is a two-part exploratory data analysis to analyze player an
 
 The model could be improved with the addition of multiple seasons' data, which could impact the feature importances. Despite this, multiple models were used to corroborate the results, so I can safely assume the results are accurate. 
 
-The findings were then integrated into a Tableau Dashboard available to view here.
+The findings were then integrated into a Tableau Dashboard available to view [here](https://public.tableau.com/views/PositionMattersStatististicalProfilesAcrossthePLL/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## The Results
 
 
 **Sample Dashboard**
+<img width="1657" height="925" alt="image" src="https://github.com/user-attachments/assets/ba539200-07d2-41a8-995a-751e40cc8956" />
 
+The full dashboard can be viewed [here](https://public.tableau.com/views/PositionMattersStatististicalProfilesAcrossthePLL/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## The Suggestions
 
