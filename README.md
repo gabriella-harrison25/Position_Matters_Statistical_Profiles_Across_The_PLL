@@ -19,7 +19,8 @@ The findings were then integrated into a Tableau Dashboard available to view [he
 
 
 **Sample Dashboard**
-<img width="1657" height="925" alt="image" src="https://github.com/user-attachments/assets/ba539200-07d2-41a8-995a-751e40cc8956" />
+A sample of the interactive dashboard is shown below. 
+<img width="2399" height="1349" alt="Dashboard 3" src="https://github.com/user-attachments/assets/26a9b839-aec7-410a-8615-bebf5c837ab2" />
 
 The full dashboard can be viewed [here](https://public.tableau.com/views/PositionMattersStatististicalProfilesAcrossthePLL/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
