@@ -38,3 +38,5 @@ exploring top scorers' breakdown of goals by value
 *August 15* - Continued analysis in Part 2 by developing Random Forest Regression model to validate earlier results. 
 
 *August 16* - Finalized analysis and created results dashboard for project.
+
+*August 17-18* - Finalized dashboard in Tableau and published it to Tableau Public.
