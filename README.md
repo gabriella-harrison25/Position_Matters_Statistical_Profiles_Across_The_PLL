@@ -36,11 +36,11 @@ As stated earlier, each team in the PLL drafts players each year in an attempt t
 
 ## The Files
 *PLL_EDA_Data_Pre-Processing (1).ipynb* - Data cleaning and pre-processing for Positional Analysis. <br>
-*PLL_Positional_Analysis.ipynb* - Positional Analysis process and results. <br>
+*PLL_Positional_Analysis.ipynb* - Positional analysis process and results. <br>
 *PLL_EDA_Team_DataCleaning.ipynb* - Data cleaning and pre-processing for Team Analysis.<br>
 *PLL_EDA_TeamAnalysis.ipynb* - Team Analysis process and results. <br>
 
-*Timeline.md* - A file detailing the status of the project after each work session.
+*Timeline.md* - A file detailing the ongoing status of the project over time.
 
 ## Detailed Results
 
@@ -65,4 +65,10 @@ The correlation analysis was further investigated using a Random Forest Regressi
 Shooting percentage is considered a feature of high importance with a value of 0.448. Faceoff percentage has the second-highest importance, so it is considered a support feature. These values validate the statistics found by the basic correlation model. However, only one of the features was considered high importance, which could be attributed to the small sample size.  
 
 ## References
+Lacrosse, P. (2025). Premier lacrosse league stats. In Premier Lacrosse League Stats. https://stats.premierlacrosseleague.com/games
 
+PLL awards. (2024). In Premier Lacrosse League. https://premierlacrosseleague.com/awards
+
+Premier lacrosse league stats. (2025). In Premier Lacrosse League Stats. https://stats.premierlacrosseleague.com/player-table
+
+Standings. (n.d.). In Premier Lacrosse League. Retrieved August 18, 2026, from https://premierlacrosseleague.com/standings
