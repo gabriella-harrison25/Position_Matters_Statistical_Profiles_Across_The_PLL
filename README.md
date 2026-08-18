@@ -16,10 +16,11 @@ The model could be improved with the addition of multiple seasons' data, which c
 The findings were then integrated into a Tableau Dashboard available to view [here](https://public.tableau.com/views/PositionMattersStatististicalProfilesAcrossthePLL/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## The Results
-**Overall**<br>
 First, an exploratory data analysis of each position was completed. The rankings of top players based on statistics aligned with industry results within one rank on four of six analyses performed, highlighting accuracy in the methods used. Notable findings included the importance of working with teammates to deliver successful offensive plays (see *Attack* below), win clean faceoffs (see *Faceoff* below), and defend against opposition (see *Defensive Midfielders*). There were some clear limitations due to the use of only one season's data, small numbers of highly-skilled positions (goalies, faceoffs), and lack of defenseman-specific statistics (lockdown rating). Despite this, the underlying emphasis on teamwork highlights a fundamental skill when playing professional lacrosse.
 
 Then, using the same dataset from individual players, team-level statistics were calculated. A feature-analysis was done using a basic correlation model (Pearson's correlation coefficient) and a Random Forest Regression model. The results validated one another and indicated that shooting percentage and faceoff win percentage had the strongest relationship with team wins. However, no feature had a relationship that was considered statistically strong. This is attributed to the small sample size of ten teams and a single season's data.
+
+Overall, the importance of teamwork and collaboration in a professional lacrosse is made clear through the statistical analyses of both player-level and team-level data.
 
 **Sample Dashboard** <br>
 A sample of the interactive dashboard is shown below. 
