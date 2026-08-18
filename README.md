@@ -38,6 +38,7 @@ As stated earlier, each team in the PLL drafts players each year in an attempt t
 *PLL_EDA_TeamAnalysis.ipynb* - Team Analysis process and results. <br>
 
 *Timeline.md* - A file detailing the ongoing status of the project over time.
+*Data* - Folder containing raw and cleaned datasets used in analyses.
 
 ## Detailed Results
 
